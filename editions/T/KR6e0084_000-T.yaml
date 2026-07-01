@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0084/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經內章門等雜孔目章
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1870.xml
+    old_id: T45n1870
+hash: sha256:dbaea15c33358f913b236ed27e084af45e65e150203802d506f87afac11ae45b
